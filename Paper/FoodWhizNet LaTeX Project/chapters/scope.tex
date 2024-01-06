@@ -1,0 +1,5 @@
+The scope of this study is on the development of a food classification system that utilizes a multiple-color space input to a Siamese-CNN deep learning network to be trained and tested using all the classes from the Food-101 dataset \cite{bossard-2014}. The Food-101 dataset will also serve as the primary dataset for this study, utilizing other existing datasets for benchmarking against the previous studies.
+
+For benchmarking purposes, the study will not be utilizing data augmentation techniques to balance the imbalanced datasets. The use of data augmentation technique will be utilized purely to increase the robustness of the proposed model.  
+
+Since this study is training foods primarily found from the Food-101 dataset, the researcher will assume that the user of the web application is querying food classes only included from the Food-101 dataset. Therefore, if any food classes not included in the 101 classes of the primary dataset are queried, they will be categorized to their closest class, disregarding the existence of negative classes.

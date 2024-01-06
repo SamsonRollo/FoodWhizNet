@@ -1,0 +1,106 @@
+\documentclass[a4paper, 12pt]{report}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{fullpage}
+\usepackage{longtable}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{biblatex}
+\usepackage{subcaption}
+\addbibresource{references.bib}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{indentfirst}
+\setlength{\parindent}{4em}
+
+\usepackage{forloop}
+\newcounter{loopctr}
+\newcommand{\rpt}[2][1]{ \forloop{loopctr}{0}{\value{loopctr}<#1}{#2} }
+\newcommand{\on}[1][1]{\forloop{loopctr}{0}{\value{loopctr}<#1}{&\cellcolor{gray}}}
+\newcommand{\off}[1][1]{\forloop{loopctr}{0}{\value{loopctr}<#1}{&}}
+\usepackage{xcolor,colortbl}
+\usepackage{tabularray}
+\usepackage{amssymb}
+\usepackage{titlesec}
+
+\titleformat{\chapter}[block]
+  {\normalfont\huge\bfseries}{\thechapter\hspace{10pt}}{0pt}{\Huge\bfseries}
+
+\newcounter{originalchapter}
+\newcommand{\abstractchapter}[1]{%
+  \setcounter{originalchapter}{\value{chapter}}
+  \setcounter{chapter}{0}
+  \renewcommand{\thechapter}{0}
+  \chapter*{0 #1}
+  \addcontentsline{toc}{chapter}{0 #1}
+  \setcounter{chapter}{\value{originalchapter}}
+  \renewcommand{\thechapter}{\arabic{chapter}}
+}
+
+\title{\textbf{FoodWhizNet: A Web-based Food Classification System using Multi-Color Space Siamese-CNN Model}}
+\author{Samson Jr Rollo}
+\date{January 2024}
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \vspace*{1cm}
+    {\LARGE\bfseries FoodWhizNet: A Web-based Food Classification System using Multi-Color Space Siamese-CNN Model \par}
+    \vspace{2cm}
+    {\Large Samson Jr Rollo \par}
+    \vspace{1cm}
+   	CMSC 199.1: Research in Computer Science I \\
+	Division of Natural Sciences and Mathematics \\
+	University of the Philippines Tacloban College\\
+	sdrollo@up.edu.ph\\
+    \vfill
+    January 2024
+    \vfill
+\end{titlepage}
+%\maketitle
+
+
+\pagenumbering{gobble}
+\abstractchapter{Abstract}
+\input{chapters/Abstract}
+% \chapter*{Dedication}
+% \addcontentsline{toc}{section}{Dedication}
+% \input{chapters/dedication}
+% \chapter*{Acknowledgement}
+% \addcontentsline{toc}{section}{Acknowledgement}
+% \input{chapters/acknowledgement}
+
+\tableofcontents
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+
+\newpage
+
+\pagenumbering{arabic}
+\chapter{Introduction}
+\input{chapters/introduction}
+\chapter{Related Works}
+\input{chapters/rrl}
+\chapter{Statement of the Problem}
+\input{chapters/statementoftheproblem}
+\chapter{Objectives}
+\input{chapters/objectives}
+\chapter{Scope and Limitations}
+\input{chapters/scope}
+\chapter{Significance of the Study}
+\input{chapters/significance}
+\chapter{Theoritical and Conceptual Framework}
+\input{chapters/theoreticalandconceptualframework}
+\chapter{Proposed Methodology}
+\input{chapters/methodology}
+\chapter{Initial Experiments and Results}
+\input{chapters/initialexperimentsandresults}
+\chapter{Schedule of Activities}
+\input{chapters/scheduleofactivities}
+% \chapter{Results and Discussion}
+% \input{chapters/resultsdiscussion}
+% \chapter{Conclusion}
+% \input{chapters/conclusion}
+
+\printbibliography[title=References]
+
+\end{document}

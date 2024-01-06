@@ -1,0 +1,1937 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{bansal-2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d0568dd9c8862074be4b90ab68c24ba9}{%
+           family={Bansal},
+           familyi={B\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1f5df779cba93bcf8fb87833344bf7d0}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Munish},
+           giveni={M\bibinitperiod}}}%
+        {{hash=63cc18b2c55e6c29eeddfba010ee6554}{%
+           family={Sachdeva},
+           familyi={S\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8934f4feb2153956a035038df4a9b687}{%
+           family={Mittal},
+           familyi={M\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science+Business Media}%
+      }
+      \strng{namehash}{25d5d78207ba8cd5c2da931eb7386fc3}
+      \strng{fullhash}{fde0696fd4df938fef92282d0b2b2ffb}
+      \strng{bibnamehash}{25d5d78207ba8cd5c2da931eb7386fc3}
+      \strng{authorbibnamehash}{25d5d78207ba8cd5c2da931eb7386fc3}
+      \strng{authornamehash}{25d5d78207ba8cd5c2da931eb7386fc3}
+      \strng{authorfullhash}{fde0696fd4df938fef92282d0b2b2ffb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{journaltitle}{Journal of Ambient Intelligence and Humanized Computing}
+      \field{month}{9}
+      \field{number}{4}
+      \field{title}{Transfer learning for image classification using VGG19: Caltech-101 image data set}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{3609\bibrangedash 3620}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s12652-021-03488-z
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s12652-021-03488-z
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s12652-021-03488-z
+      \endverb
+    \endentry
+    \entry{bossard-2014}{book}{}
+      \name{author}{3}{}{%
+        {{hash=52ed4a657c18f54ae23a0c02cb79a9aa}{%
+           family={Bossard},
+           familyi={B\bibinitperiod},
+           given={Lukas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f86907ed22ae82012f00805c8d512289}{%
+           family={Guillaumin},
+           familyi={G\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=571cf1ff6717913e717bb0e9a7d9d09f}{%
+           family={Van\bibnamedelimb Gool},
+           familyi={V\bibinitperiod},
+           given={Luc\bibnamedelimb J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a932c51e3ac0c0dc0a461fd1b6e82422}
+      \strng{fullhash}{a932c51e3ac0c0dc0a461fd1b6e82422}
+      \strng{bibnamehash}{a932c51e3ac0c0dc0a461fd1b6e82422}
+      \strng{authorbibnamehash}{a932c51e3ac0c0dc0a461fd1b6e82422}
+      \strng{authornamehash}{a932c51e3ac0c0dc0a461fd1b6e82422}
+      \strng{authorfullhash}{a932c51e3ac0c0dc0a461fd1b6e82422}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Springer eBooks}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{Food-101 – Mining Discriminative Components with Random Forests}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{446\bibrangedash 461}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-319-10599-4_29
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-10599-4_29
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-10599-4_29
+      \endverb
+    \endentry
+    \entry{brintha-2022}{article}{}
+      \name{author}{6}{}{%
+        {{hash=c0ce29809645469b40ec2d5c6e247aad}{%
+           family={Brintha},
+           familyi={B\bibinitperiod},
+           given={N.C.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=585bf29947559fb686bbc47fab5fbbe8}{%
+           family={Nagaraj},
+           familyi={N\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ef65815e31cee3cdc1472888305281c1}{%
+           family={Tejasri},
+           familyi={T\bibinitperiod},
+           given={Arige},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1e0981fbdb2d18962a5aeb1be391c525}{%
+           family={Durga},
+           familyi={D\bibinitperiod},
+           given={Bhavanam\bibnamedelimb Vijaya},
+           giveni={B\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=9334d2b395cbc4613b9b6df7b5b31bcf}{%
+           family={Teja},
+           familyi={T\bibinitperiod},
+           given={Mederametla\bibnamedelimb Tarun},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=bf60f2b4d1d4729c65af3d93dc6b7950}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Maguluri\bibnamedelimb Navi\bibnamedelimb Venkata\bibnamedelimb Pavan},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec3550799f040d498d99daaa52963bd6}
+      \strng{fullhash}{2d661742ebbb162f91360c2e3f92f5b2}
+      \strng{bibnamehash}{ec3550799f040d498d99daaa52963bd6}
+      \strng{authorbibnamehash}{ec3550799f040d498d99daaa52963bd6}
+      \strng{authornamehash}{ec3550799f040d498d99daaa52963bd6}
+      \strng{authorfullhash}{2d661742ebbb162f91360c2e3f92f5b2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{journaltitle}{2022 7th International Conference on Communication and Electronics Systems (ICCES)}
+      \field{month}{6}
+      \field{title}{A Food Recommendation System for Predictive Diabetic Patients using ANN and CNN}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/icces54183.2022.9835808
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/icces54183.2022.9835808
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/icces54183.2022.9835808
+      \endverb
+    \endentry
+    \entry{chun-2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e4e12f2642a2a0796d97c394b3ea34e0}{%
+           family={Chun},
+           familyi={C\bibinitperiod},
+           given={Minki},
+           giveni={M\bibinitperiod}}}%
+        {{hash=23e280bfcfd94b39f1cd28cd5bdb89ac}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Hyeonhak},
+           giveni={H\bibinitperiod}}}%
+        {{hash=23c53259ca5209e987cf6d7c9dbcf5ec}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hyun-Min},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0e2b9e3f4116fc5d28f675f3f17bbf1b}{%
+           family={Yoo},
+           familyi={Y\bibinitperiod},
+           given={Taewon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=25d7e977985ed682ef92c003896f0065}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Hyunggu},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{eb09fbf1e280a0a20363542a151af325}
+      \strng{fullhash}{3ca9c0ffdae4430de1d73cab2e9a8348}
+      \strng{bibnamehash}{eb09fbf1e280a0a20363542a151af325}
+      \strng{authorbibnamehash}{eb09fbf1e280a0a20363542a151af325}
+      \strng{authornamehash}{eb09fbf1e280a0a20363542a151af325}
+      \strng{authorfullhash}{3ca9c0ffdae4430de1d73cab2e9a8348}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{IEEE Access}
+      \field{month}{1}
+      \field{title}{Development of Korean food image classification model using public food image dataset and deep learning methods}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{128732\bibrangedash 128741}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/access.2022.3227796
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/access.2022.3227796
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/access.2022.3227796
+      \endverb
+    \endentry
+    \entry{ciocca-2019}{book}{}
+      \name{author}{3}{}{%
+        {{hash=1646c9770e559d37c8e472a1a74ce288}{%
+           family={Ciocca},
+           familyi={C\bibinitperiod},
+           given={Gianluigi},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0551bd977e0319b4e12e7cc9a6cd7c09}{%
+           family={Mazzini},
+           familyi={M\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f8e185bb42326e275d86f84e6b420d0f}{%
+           family={Schettini},
+           familyi={S\bibinitperiod},
+           given={Raimondo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2182354f350f73500f89d3a5a057af2a}
+      \strng{fullhash}{2182354f350f73500f89d3a5a057af2a}
+      \strng{bibnamehash}{2182354f350f73500f89d3a5a057af2a}
+      \strng{authorbibnamehash}{2182354f350f73500f89d3a5a057af2a}
+      \strng{authornamehash}{2182354f350f73500f89d3a5a057af2a}
+      \strng{authorfullhash}{2182354f350f73500f89d3a5a057af2a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Lecture Notes in Computer Science}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{Evaluating CNN-Based semantic food segmentation across illuminants}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{247\bibrangedash 259}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-030-13940-7_19
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-030-13940-7_19
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-030-13940-7_19
+      \endverb
+    \endentry
+    \entry{de-kervenoael-2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dd3e352360b166b68f926fd04cb55f0a}{%
+           family={De\bibnamedelimb Kervenoael},
+           familyi={D\bibinitperiod},
+           given={Ronan\bibnamedelimb Jouan},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c4a262e5aa2d1635b23736801e72de76}{%
+           family={Schwob},
+           familyi={S\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0d452876e313f1ecaecde1d5030dd705}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Rajibul},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a85c5764797244caa0a72f14852a993f}{%
+           family={Kemari},
+           familyi={K\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{7891781039ecc51546d4c0fae5443d4e}
+      \strng{fullhash}{558f6d292b57bf8394f060e057e500e2}
+      \strng{bibnamehash}{7891781039ecc51546d4c0fae5443d4e}
+      \strng{authorbibnamehash}{7891781039ecc51546d4c0fae5443d4e}
+      \strng{authornamehash}{7891781039ecc51546d4c0fae5443d4e}
+      \strng{authorfullhash}{558f6d292b57bf8394f060e057e500e2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{journaltitle}{Behaviour \& Information Technology}
+      \field{month}{5}
+      \field{title}{Food choice and the epistemic value of the consumption of recommender systems: the case of Yuka’s perceived value in France}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1080/0144929x.2023.2212088
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/0144929x.2023.2212088
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/0144929x.2023.2212088
+      \endverb
+    \endentry
+    \entry{dong2019diet}{inproceedings}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=888fb532094ac0bc0f0ac79a3de5c469}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Tianren},
+           giveni={T\bibinitperiod}}}%
+        {{hash=17b6a43f5598c7efd897f9d254090fdd}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=026d52402ddd56d5d6e205fe1fbf0a33}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Fangyan},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {CS \& IT Conference Proceedings}%
+      }
+      \strng{namehash}{a950eaa5905a08c46e6af37c04ddc4b9}
+      \strng{fullhash}{a950eaa5905a08c46e6af37c04ddc4b9}
+      \strng{bibnamehash}{a950eaa5905a08c46e6af37c04ddc4b9}
+      \strng{authorbibnamehash}{a950eaa5905a08c46e6af37c04ddc4b9}
+      \strng{authornamehash}{a950eaa5905a08c46e6af37c04ddc4b9}
+      \strng{authorfullhash}{a950eaa5905a08c46e6af37c04ddc4b9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{CS \& IT Conference Proceedings}
+      \field{number}{12}
+      \field{title}{A Diet Control and Fitness Assistant Application Using Deep Learning-Based Image Classification}
+      \field{volume}{9}
+      \field{year}{2019}
+    \endentry
+    \entry{gangan-2022}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8b5b2af3f7b6e1a64a8bd13311aa392f}{%
+           family={Gangan},
+           familyi={G\bibinitperiod},
+           given={Manjary\bibnamedelimb P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=206cfe288273123cd796d81fd8a99822}{%
+           family={Anoop},
+           familyi={A\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=01c98f4733a9b23aa56e555e975967d3}{%
+           family={L},
+           familyi={L\bibinitperiod},
+           given={Lajish\bibnamedelimb V.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{77edd2fc61490626ec35714bcbb30f98}
+      \strng{fullhash}{77edd2fc61490626ec35714bcbb30f98}
+      \strng{bibnamehash}{77edd2fc61490626ec35714bcbb30f98}
+      \strng{authorbibnamehash}{77edd2fc61490626ec35714bcbb30f98}
+      \strng{authornamehash}{77edd2fc61490626ec35714bcbb30f98}
+      \strng{authorfullhash}{77edd2fc61490626ec35714bcbb30f98}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Journal of Information Security and Applications}
+      \field{month}{8}
+      \field{title}{Distinguishing natural and computer generated images using Multi-Colorspace fused EfficientNet}
+      \field{volume}{68}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{103261}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jisa.2022.103261
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.jisa.2022.103261
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.jisa.2022.103261
+      \endverb
+    \endentry
+    \entry{gowda-2019}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ccda377ed9bb6adbe77e3e4b99d6a399}{%
+           family={Gowda},
+           familyi={G\bibinitperiod},
+           given={Shreyank\bibnamedelimb N},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f40a510b97d203bd238790181fef441c}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Chun},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1be3796c739e4bf5cef280ea3c60b979}
+      \strng{fullhash}{1be3796c739e4bf5cef280ea3c60b979}
+      \strng{bibnamehash}{1be3796c739e4bf5cef280ea3c60b979}
+      \strng{authorbibnamehash}{1be3796c739e4bf5cef280ea3c60b979}
+      \strng{authornamehash}{1be3796c739e4bf5cef280ea3c60b979}
+      \strng{authorfullhash}{1be3796c739e4bf5cef280ea3c60b979}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Lecture Notes in Computer Science}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{ColorNet: Investigating the importance of color spaces for image classification}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{581\bibrangedash 596}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-030-20870-7_36
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-030-20870-7_36
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-030-20870-7_36
+      \endverb
+    \endentry
+    \entry{grusser-1989}{book}{}
+      \name{author}{2}{}{%
+        {{hash=bb18fdc1ac012c9a2e022daf2da050b6}{%
+           family={Grüsser},
+           familyi={G\bibinitperiod},
+           given={O.‐j.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a7c12cf40d7c98b50d5f9e6cbf6c0991}{%
+           family={Grüsser‐Cornehls},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f797fd14904ce01876f3bed5ef241bc}
+      \strng{fullhash}{3f797fd14904ce01876f3bed5ef241bc}
+      \strng{bibnamehash}{3f797fd14904ce01876f3bed5ef241bc}
+      \strng{authorbibnamehash}{3f797fd14904ce01876f3bed5ef241bc}
+      \strng{authornamehash}{3f797fd14904ce01876f3bed5ef241bc}
+      \strng{authorfullhash}{3f797fd14904ce01876f3bed5ef241bc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Human Physiology}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{The Sense of Sight}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-642-73831-9_11
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-73831-9_11
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-73831-9_11
+      \endverb
+    \endentry
+    \entry{He_2016_CVPR}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6b4b60e909e78633945f3f9c9dc83e01}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Kaiming},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5e72bc22dbcf0984c6d113d280e36990}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiangyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bb295293acacd54387339079ebbe4ead}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Shaoqing},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f85751488058842b5777c7b4074077b5}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{fullhash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \strng{bibnamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authorbibnamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authornamehash}{6edb98fe38401d2fe4a026f5ce6e8451}
+      \strng{authorfullhash}{42c4b52dc3a62cebabbc11c73e1afb53}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{Deep Residual Learning for Image Recognition}
+      \field{year}{2016}
+    \endentry
+    \entry{he-2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d81172064e07754f0acdadf2aa0ca40d}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Peisong},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9e1788096643da3ed1abfd094001bedb}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Haoliang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d9fea4fe48cadc9529595e88078d0df4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hongxia},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a86f794ba956f5370cac8fbf88198de8}
+      \strng{fullhash}{a86f794ba956f5370cac8fbf88198de8}
+      \strng{bibnamehash}{a86f794ba956f5370cac8fbf88198de8}
+      \strng{authorbibnamehash}{a86f794ba956f5370cac8fbf88198de8}
+      \strng{authornamehash}{a86f794ba956f5370cac8fbf88198de8}
+      \strng{authorfullhash}{a86f794ba956f5370cac8fbf88198de8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{2019 IEEE International Conference on Image Processing (ICIP)}
+      \field{month}{9}
+      \field{title}{Detection of Fake Images Via The Ensemble of Deep Representations from Multi Color Spaces}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/icip.2019.8803740
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/icip.2019.8803740
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/icip.2019.8803740
+      \endverb
+    \endentry
+    \entry{hirota-2020}{article}{}
+      \name{author}{7}{}{%
+        {{hash=3813564191c83df0c5650d0f3f4406d9}{%
+           family={Hirota},
+           familyi={H\bibinitperiod},
+           given={Masakazu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b8740d5e67f0937e8b4f279a4a3539ad}{%
+           family={Mizota},
+           familyi={M\bibinitperiod},
+           given={Atsushi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8dc356395d0ac316dcc7f8347ac22280}{%
+           family={Mimura},
+           familyi={M\bibinitperiod},
+           given={Tatsuya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=116f86321e1877b09178c6426d97fa10}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ff9352f2d8640e4ed7d42681547b3d66}{%
+           family={Kotoku},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9b909a89cf88bad733d6ac322f51c7f2}{%
+           family={Sawa},
+           familyi={S\bibinitperiod},
+           given={Tomohiro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2eaae5f27da2d3a17a4ced8b817a61d2}{%
+           family={Inoue},
+           familyi={I\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science+Business Media}%
+      }
+      \strng{namehash}{396720bb8ffac725eba59029bf2e5c4f}
+      \strng{fullhash}{6463f09a2be9182b8a40b2acea5987d9}
+      \strng{bibnamehash}{396720bb8ffac725eba59029bf2e5c4f}
+      \strng{authorbibnamehash}{396720bb8ffac725eba59029bf2e5c4f}
+      \strng{authornamehash}{396720bb8ffac725eba59029bf2e5c4f}
+      \strng{authorfullhash}{6463f09a2be9182b8a40b2acea5987d9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{journaltitle}{International Ophthalmology}
+      \field{month}{6}
+      \field{number}{11}
+      \field{title}{Effect of color information on the diagnostic performance of glaucoma in deep learning using few fundus images}
+      \field{volume}{40}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{3013\bibrangedash 3022}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s10792-020-01485-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10792-020-01485-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10792-020-01485-3
+      \endverb
+    \endentry
+    \entry{howard2017mobilenets}{misc}{}
+      \name{author}{8}{}{%
+        {{hash=0cedb03f907400fc304fdfaa1f7e2085}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Andrew\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d767e8e4d733bcf728bcdf2c193462f7}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Menglong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=31960f03389184b7f052f5b197cc9fdf}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6cbb997a11c6922af719c32863261918}{%
+           family={Kalenichenko},
+           familyi={K\bibinitperiod},
+           given={Dmitry},
+           giveni={D\bibinitperiod}}}%
+        {{hash=47ad65c82b1de7d642988df185d7d8ea}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Weijun},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7dcb9c6d4d4251a7e32b502d03c9354b}{%
+           family={Weyand},
+           familyi={W\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8f221f2afb0b5a3d95b3e97101924922}{%
+           family={Andreetto},
+           familyi={A\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c707ec5b5997dc408a14a34a8380166c}{%
+           family={Adam},
+           familyi={A\bibinitperiod},
+           given={Hartwig},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1fc6cab9b6009340e110518e53868c4}
+      \strng{fullhash}{cffcf38c642164887a370768f5701b8e}
+      \strng{bibnamehash}{e1fc6cab9b6009340e110518e53868c4}
+      \strng{authorbibnamehash}{e1fc6cab9b6009340e110518e53868c4}
+      \strng{authornamehash}{e1fc6cab9b6009340e110518e53868c4}
+      \strng{authorfullhash}{cffcf38c642164887a370768f5701b8e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CV}
+      \field{eprinttype}{arXiv}
+      \field{title}{MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1704.04861
+      \endverb
+    \endentry
+    \entry{islam-2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d02ebf5c3e438db3da721c29f75b716a}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Tohidul},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0d969ddf4f281f5cc670dbaf46367b3c}{%
+           family={Siddique},
+           familyi={S\bibinitperiod},
+           given={Bushra},
+           giveni={B\bibinitperiod}}}%
+        {{hash=88579c8661da911b36d0531f0d50cc31}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Sagidur},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ce79bbf4f5b7db912501d29c02bbfa9d}{%
+           family={Jabid},
+           familyi={J\bibinitperiod},
+           given={Taskeed},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d5dc03c834a79d7cf4efc3fa5cd4c41}
+      \strng{fullhash}{4672eb01cae5a2a9607481bd6ffbdf64}
+      \strng{bibnamehash}{2d5dc03c834a79d7cf4efc3fa5cd4c41}
+      \strng{authorbibnamehash}{2d5dc03c834a79d7cf4efc3fa5cd4c41}
+      \strng{authornamehash}{2d5dc03c834a79d7cf4efc3fa5cd4c41}
+      \strng{authorfullhash}{4672eb01cae5a2a9607481bd6ffbdf64}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{2018 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS)}
+      \field{month}{10}
+      \field{title}{Image Recognition with Deep Learning}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/iciibms.2018.8550021
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/iciibms.2018.8550021
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/iciibms.2018.8550021
+      \endverb
+    \endentry
+    \entry{kang-2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=23799bc41e580a83c1fab9685455c65b}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Seong\bibnamedelimb Pal},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{23799bc41e580a83c1fab9685455c65b}
+      \strng{fullhash}{23799bc41e580a83c1fab9685455c65b}
+      \strng{bibnamehash}{23799bc41e580a83c1fab9685455c65b}
+      \strng{authorbibnamehash}{23799bc41e580a83c1fab9685455c65b}
+      \strng{authornamehash}{23799bc41e580a83c1fab9685455c65b}
+      \strng{authorfullhash}{23799bc41e580a83c1fab9685455c65b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of earth sciences}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{Color in food evaluation}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{138\bibrangedash 141}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/978-90-481-3585-1_236
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-90-481-3585-1_236
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-90-481-3585-1_236
+      \endverb
+    \endentry
+    \entry{kaur-2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0fceea6de03cd2e86dcc7e2deba76cc2}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Rajdeep},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a695c393b6815b89be7b12cb2c406814}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Rakesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bcceb7215a9ba94cff47299999acc7dd}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Meenu},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{51c3defa213e63820cc42ddb76525c6e}
+      \strng{fullhash}{51c3defa213e63820cc42ddb76525c6e}
+      \strng{bibnamehash}{51c3defa213e63820cc42ddb76525c6e}
+      \strng{authorbibnamehash}{51c3defa213e63820cc42ddb76525c6e}
+      \strng{authornamehash}{51c3defa213e63820cc42ddb76525c6e}
+      \strng{authorfullhash}{51c3defa213e63820cc42ddb76525c6e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{journaltitle}{Reviews in Endocrine and Metabolic Disorders}
+      \field{month}{3}
+      \field{number}{4}
+      \field{title}{Deep neural network for food image classification and nutrient identification: A systematic review}
+      \field{volume}{24}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{633\bibrangedash 653}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s11154-023-09795-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11154-023-09795-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11154-023-09795-4
+      \endverb
+    \endentry
+    \entry{kawano-2015}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0f2bd5d95e9353848ff54ac39e2b9e8e}{%
+           family={Kawano},
+           familyi={K\bibinitperiod},
+           given={Yoshiyuki},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=46a2f978421ba4646fddc2623db5f92d}{%
+           family={Yanai},
+           familyi={Y\bibinitperiod},
+           given={Keiji},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad740331567649668646ce9d5a9e0552}
+      \strng{fullhash}{ad740331567649668646ce9d5a9e0552}
+      \strng{bibnamehash}{ad740331567649668646ce9d5a9e0552}
+      \strng{authorbibnamehash}{ad740331567649668646ce9d5a9e0552}
+      \strng{authornamehash}{ad740331567649668646ce9d5a9e0552}
+      \strng{authorfullhash}{ad740331567649668646ce9d5a9e0552}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Lecture Notes in Computer Science}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{Automatic Expansion of a Food Image Dataset Leveraging Existing Categories with Domain Adaptation}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 17}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/978-3-319-16199-0_1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-16199-0_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-16199-0_1
+      \endverb
+    \endentry
+    \entry{kawano-2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0f2bd5d95e9353848ff54ac39e2b9e8e}{%
+           family={Kawano},
+           familyi={K\bibinitperiod},
+           given={Yoshiyuki},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=46a2f978421ba4646fddc2623db5f92d}{%
+           family={Yanai},
+           familyi={Y\bibinitperiod},
+           given={Keiji},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad740331567649668646ce9d5a9e0552}
+      \strng{fullhash}{ad740331567649668646ce9d5a9e0552}
+      \strng{bibnamehash}{ad740331567649668646ce9d5a9e0552}
+      \strng{authorbibnamehash}{ad740331567649668646ce9d5a9e0552}
+      \strng{authornamehash}{ad740331567649668646ce9d5a9e0552}
+      \strng{authorfullhash}{ad740331567649668646ce9d5a9e0552}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{journaltitle}{MM '14: Proceedings of the 22nd ACM international conference on Multimedia}
+      \field{month}{11}
+      \field{title}{FoodCam-256}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/2647868.2654869
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2647868.2654869
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2647868.2654869
+      \endverb
+    \endentry
+    \entry{kumar-2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7f7d76484c207160110352038e40d498}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Himanshu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9c0cd8f72268a99ac078f31bfdee9862}{%
+           family={Sastry},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ba75c4f9e0e45705a9ccacaec1b5b2b}
+      \strng{fullhash}{9ba75c4f9e0e45705a9ccacaec1b5b2b}
+      \strng{bibnamehash}{9ba75c4f9e0e45705a9ccacaec1b5b2b}
+      \strng{authorbibnamehash}{9ba75c4f9e0e45705a9ccacaec1b5b2b}
+      \strng{authornamehash}{9ba75c4f9e0e45705a9ccacaec1b5b2b}
+      \strng{authorfullhash}{9ba75c4f9e0e45705a9ccacaec1b5b2b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}
+      \field{month}{10}
+      \field{title}{Robust Loss Functions for Learning Multi-class Classifiers}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/smc.2018.00125
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/smc.2018.00125
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/smc.2018.00125
+      \endverb
+    \endentry
+    \entry{larbi-2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=cc6ea47f1f120def05fc7ed98222a876}{%
+           family={Larbi},
+           familyi={L\bibinitperiod},
+           given={Kaouthar},
+           giveni={K\bibinitperiod}}}%
+        {{hash=02bcab178b7862d4950b4a9ebfd9b826}{%
+           family={Ouarda},
+           familyi={O\bibinitperiod},
+           given={Wael},
+           giveni={W\bibinitperiod}}}%
+        {{hash=bf39e83c635808d8a3b5d1940047e7c0}{%
+           family={Drira},
+           familyi={D\bibinitperiod},
+           given={Hassen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b8e63455eee6e5bb13cc8ba9ffd22d62}{%
+           family={Amor},
+           familyi={A\bibinitperiod},
+           given={Boulbaba\bibnamedelimb Ben},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=89addba42e760f4431f39e204774d97d}{%
+           family={Amar},
+           familyi={A\bibinitperiod},
+           given={Chokri\bibnamedelimb Ben},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4b6209b4bf4969ffb79ee9835477dbd}
+      \strng{fullhash}{53d7852ab19714236e79ab3b6bd8f0c2}
+      \strng{bibnamehash}{c4b6209b4bf4969ffb79ee9835477dbd}
+      \strng{authorbibnamehash}{c4b6209b4bf4969ffb79ee9835477dbd}
+      \strng{authornamehash}{c4b6209b4bf4969ffb79ee9835477dbd}
+      \strng{authorfullhash}{53d7852ab19714236e79ab3b6bd8f0c2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{2018 IEEE International Conference on Systems, Man, and Cybernetics}
+      \field{month}{10}
+      \field{title}{DeepColorFASD: Face Anti Spoofing Solution Using a Multi Channeled Color Spaces CNN}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/smc.2018.00680
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/smc.2018.00680
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/smc.2018.00680
+      \endverb
+    \endentry
+    \entry{lecun-2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6a1aa6b7eab12b931ca7c7e3f927231d}{%
+           family={LeCun},
+           familyi={L\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=813bd95fe553e6079cd53a567b238287}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey\bibnamedelimb E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Portfolio}%
+      }
+      \strng{namehash}{e340dc27651372b69ce4745f3d04b738}
+      \strng{fullhash}{e340dc27651372b69ce4745f3d04b738}
+      \strng{bibnamehash}{e340dc27651372b69ce4745f3d04b738}
+      \strng{authorbibnamehash}{e340dc27651372b69ce4745f3d04b738}
+      \strng{authornamehash}{e340dc27651372b69ce4745f3d04b738}
+      \strng{authorfullhash}{e340dc27651372b69ce4745f3d04b738}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{journaltitle}{Nature}
+      \field{month}{5}
+      \field{number}{7553}
+      \field{title}{Deep learning}
+      \field{volume}{521}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{436\bibrangedash 444}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/nature14539
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/nature14539
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/nature14539
+      \endverb
+    \endentry
+    \entry{markovic2013color}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{5}{}{%
+        {{hash=d1508b528f2d2c4b43360faf2f310ed4}{%
+           family={Markovic},
+           familyi={M\bibinitperiod},
+           given={Ivana},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0d4ba7bbf958ca86b5503d4391c2c906}{%
+           family={Ilic},
+           familyi={I\bibinitperiod},
+           given={Jelena},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a3d2f598829368c2f45dfaebe51904a7}{%
+           family={Markovic},
+           familyi={M\bibinitperiod},
+           given={Dragan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3e1c033b81acb39a969fceef675f0921}{%
+           family={Simonovic},
+           familyi={S\bibinitperiod},
+           given={Vojislav},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8b2438f55bd55861f6c45127b6876002}{%
+           family={Kosanic},
+           familyi={K\bibinitperiod},
+           given={Nenad},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Consulting}%
+        {Training Centre, KEY}%
+      }
+      \strng{namehash}{dedfa746fbd2bb45a779cefa6fe3f18e}
+      \strng{fullhash}{535246ae808b505545058fb2df4c1ee0}
+      \strng{bibnamehash}{dedfa746fbd2bb45a779cefa6fe3f18e}
+      \strng{authorbibnamehash}{dedfa746fbd2bb45a779cefa6fe3f18e}
+      \strng{authornamehash}{dedfa746fbd2bb45a779cefa6fe3f18e}
+      \strng{authorfullhash}{535246ae808b505545058fb2df4c1ee0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of hygienic Engineering and Design}
+      \field{number}{1}
+      \field{title}{Color measurement of food products using CIE L* a* b* and RGB color space}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{50\bibrangedash 53}
+      \range{pages}{4}
+    \endentry
+    \entry{martinel-2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dc4d94c2c36628d5320c6aa9654d4370}{%
+           family={Martinel},
+           familyi={M\bibinitperiod},
+           given={Niki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f8e8a89dd3db54e10c17319426973ce2}{%
+           family={Foresti},
+           familyi={F\bibinitperiod},
+           given={Gian\bibnamedelimb Luca},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b2f9ea5d1e9ee0234b76131032b9d3f2}{%
+           family={Micheloni},
+           familyi={M\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae0eaa7e15cb0b524f886304cb79ddad}
+      \strng{fullhash}{ae0eaa7e15cb0b524f886304cb79ddad}
+      \strng{bibnamehash}{ae0eaa7e15cb0b524f886304cb79ddad}
+      \strng{authorbibnamehash}{ae0eaa7e15cb0b524f886304cb79ddad}
+      \strng{authornamehash}{ae0eaa7e15cb0b524f886304cb79ddad}
+      \strng{authorfullhash}{ae0eaa7e15cb0b524f886304cb79ddad}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{2018 IEEE Winter Conference on Applications of Computer Vision (WACV)}
+      \field{month}{3}
+      \field{title}{Wide-Slice Residual Networks for Food Recognition}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/wacv.2018.00068
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/wacv.2018.00068
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/wacv.2018.00068
+      \endverb
+    \endentry
+    \entry{matsuda-2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cf7d7c4737ecfc8d61bb986ca46ab092}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={Yuji},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c604033792d7f2fd4bf2d9f92b094b86}{%
+           family={Hoashi},
+           familyi={H\bibinitperiod},
+           given={Hajime},
+           giveni={H\bibinitperiod}}}%
+        {{hash=46a2f978421ba4646fddc2623db5f92d}{%
+           family={Yanai},
+           familyi={Y\bibinitperiod},
+           given={Keiji},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9247abfa645f5ba568bd1eb61e61f65}
+      \strng{fullhash}{b9247abfa645f5ba568bd1eb61e61f65}
+      \strng{bibnamehash}{b9247abfa645f5ba568bd1eb61e61f65}
+      \strng{authorbibnamehash}{b9247abfa645f5ba568bd1eb61e61f65}
+      \strng{authornamehash}{b9247abfa645f5ba568bd1eb61e61f65}
+      \strng{authorfullhash}{b9247abfa645f5ba568bd1eb61e61f65}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{2012 IEEE International Conference on Multimedia and Expo}
+      \field{month}{7}
+      \field{title}{Recognition of Multiple-Food Images by Detecting Candidate Regions}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/icme.2012.157
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/icme.2012.157
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/icme.2012.157
+      \endverb
+    \endentry
+    \entry{Mcleod2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=260972c71c19ba24874dafeca44d0f4f}{%
+           family={Mcleod},
+           familyi={M\bibinitperiod},
+           given={Saul},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{260972c71c19ba24874dafeca44d0f4f}
+      \strng{fullhash}{260972c71c19ba24874dafeca44d0f4f}
+      \strng{bibnamehash}{260972c71c19ba24874dafeca44d0f4f}
+      \strng{authorbibnamehash}{260972c71c19ba24874dafeca44d0f4f}
+      \strng{authornamehash}{260972c71c19ba24874dafeca44d0f4f}
+      \strng{authorfullhash}{260972c71c19ba24874dafeca44d0f4f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 09.21.2023)}
+      \field{title}{Maslow's Hierarchy of Needs}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.simplypsychology.org/maslow.html?ez_vid=2cae626a2fe896279da43d587baa3eb663083817
+      \endverb
+      \verb{url}
+      \verb https://www.simplypsychology.org/maslow.html?ez_vid=2cae626a2fe896279da43d587baa3eb663083817
+      \endverb
+    \endentry
+    \entry{pandey-2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9d8efb334a4387a37231aff60ec9e4ac}{%
+           family={Pandey},
+           familyi={P\bibinitperiod},
+           given={Paritosh},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c86b1b7aa257c6268a273be3d7bccf2a}{%
+           family={Deepthi},
+           familyi={D\bibinitperiod},
+           given={Akella},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3e76cf0a82f71d656c36a88360ccaeec}{%
+           family={Mandal},
+           familyi={M\bibinitperiod},
+           given={Bappaditya},
+           giveni={B\bibinitperiod}}}%
+        {{hash=444edb31ab019835f06c167cd226cead}{%
+           family={Puhan},
+           familyi={P\bibinitperiod},
+           given={Niladri\bibnamedelimb B.},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{4f704b424dc7ee51c117b6dab88cbc0b}
+      \strng{fullhash}{fbe45ee529d5367c0186c9a8bd89e723}
+      \strng{bibnamehash}{4f704b424dc7ee51c117b6dab88cbc0b}
+      \strng{authorbibnamehash}{4f704b424dc7ee51c117b6dab88cbc0b}
+      \strng{authornamehash}{4f704b424dc7ee51c117b6dab88cbc0b}
+      \strng{authorfullhash}{fbe45ee529d5367c0186c9a8bd89e723}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{IEEE Signal Processing Letters}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{FoodNet: Recognizing foods using ensemble of deep networks}
+      \field{volume}{24}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1758\bibrangedash 1762}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/lsp.2017.2758862
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/lsp.2017.2758862
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/lsp.2017.2758862
+      \endverb
+    \endentry
+    \entry{prasad-2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cd6065ca0c060facc95ed30b2016baf4}{%
+           family={Prasad},
+           familyi={P\bibinitperiod},
+           given={Krishna},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd6065ca0c060facc95ed30b2016baf4}
+      \strng{fullhash}{cd6065ca0c060facc95ed30b2016baf4}
+      \strng{bibnamehash}{cd6065ca0c060facc95ed30b2016baf4}
+      \strng{authorbibnamehash}{cd6065ca0c060facc95ed30b2016baf4}
+      \strng{authornamehash}{cd6065ca0c060facc95ed30b2016baf4}
+      \strng{authorfullhash}{cd6065ca0c060facc95ed30b2016baf4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{12}
+      \field{title}{Siamese networks - towards data science}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/siamese-networks-line-by-line-explanation-for-beginners-55b8be1d2fc6
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/siamese-networks-line-by-line-explanation-for-beginners-55b8be1d2fc6
+      \endverb
+    \endentry
+    \entry{al-sarayreh-2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0509b55ee2c1c699f7c8533c86053c0c}{%
+           family={Al-Sarayreh},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3099dd772b640b40098faa568b9da629}{%
+           family={Reis},
+           familyi={R\bibinitperiod},
+           given={Marlon\bibnamedelimb M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=07afe37cc213e980893d7543a12850e3}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Wei\bibnamedelimb Qi},
+           giveni={W\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=3fdb5a470313544616e5b98edf4eaa19}{%
+           family={Klette},
+           familyi={K\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{f2782b300f5f1797684ef446b16193bd}
+      \strng{fullhash}{f5751c55a84bce4bb013f9cfdb980b4e}
+      \strng{bibnamehash}{f2782b300f5f1797684ef446b16193bd}
+      \strng{authorbibnamehash}{f2782b300f5f1797684ef446b16193bd}
+      \strng{authornamehash}{f2782b300f5f1797684ef446b16193bd}
+      \strng{authorfullhash}{f5751c55a84bce4bb013f9cfdb980b4e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{journaltitle}{Journal of Imaging}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Detection of Red-Meat adulteration by deep Spectral–Spatial features in hyperspectral images}
+      \field{volume}{4}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{63}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/jimaging4050063
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/jimaging4050063
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/jimaging4050063
+      \endverb
+    \endentry
+    \entry{sarker-2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e22a4443fd23c87312de251117c5f761}{%
+           family={Sarker},
+           familyi={S\bibinitperiod},
+           given={Iqbal\bibnamedelimb H.},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science+Business Media}%
+      }
+      \strng{namehash}{e22a4443fd23c87312de251117c5f761}
+      \strng{fullhash}{e22a4443fd23c87312de251117c5f761}
+      \strng{bibnamehash}{e22a4443fd23c87312de251117c5f761}
+      \strng{authorbibnamehash}{e22a4443fd23c87312de251117c5f761}
+      \strng{authornamehash}{e22a4443fd23c87312de251117c5f761}
+      \strng{authorfullhash}{e22a4443fd23c87312de251117c5f761}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{journaltitle}{SN computer science}
+      \field{month}{8}
+      \field{number}{6}
+      \field{title}{Deep Learning: a comprehensive overview on techniques, taxonomy, applications and research directions}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/s42979-021-00815-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s42979-021-00815-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s42979-021-00815-1
+      \endverb
+    \endentry
+    \entry{sarker-2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=d2768b9802718c4a9a473d374864a6c1}{%
+           family={Sarker},
+           familyi={S\bibinitperiod},
+           given={Md.\bibnamedelimi Mostafa\bibnamedelimb Kamal},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4419cd7349c4a42ae9cca8a73c161d3c}{%
+           family={Banu},
+           familyi={B\bibinitperiod},
+           given={Syeda\bibnamedelimb Furruka},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ed3f8573cdb2e73af6dff71b377843cd}{%
+           family={Rashwan},
+           familyi={R\bibinitperiod},
+           given={Hatem\bibnamedelimb A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=05337f4bf18b4ef7f7d53fec32b61dd1}{%
+           family={Abdel-Nasser},
+           familyi={A\bibinithyphendelim N\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3e0ad0f592f3d84c088786682c8f3f05}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Vivek\bibnamedelimb Kumar},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e839651743dbe0c244ea65e05704602a}{%
+           family={Chambon},
+           familyi={C\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6d839b48e2382fec538c109895b536f5}{%
+           family={Radeva},
+           familyi={R\bibinitperiod},
+           given={Petia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=368b80ec8bfc73809c3154fdc74d42ec}{%
+           family={Puig},
+           familyi={P\bibinitperiod},
+           given={Domènec},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a192610fc1226c4bfca55e956707e61}
+      \strng{fullhash}{7180f790a1e58466181b5e572ed41634}
+      \strng{bibnamehash}{3a192610fc1226c4bfca55e956707e61}
+      \strng{authorbibnamehash}{3a192610fc1226c4bfca55e956707e61}
+      \strng{authornamehash}{3a192610fc1226c4bfca55e956707e61}
+      \strng{authorfullhash}{7180f790a1e58466181b5e572ed41634}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{22nd International conference of the Catalan Association for Artificial Intelligence (CCIA 2019)}
+      \field{month}{1}
+      \field{title}{Food Places Classification in Egocentric Images Using Siamese Neural Networks.}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{145\bibrangedash 151}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.3233/faia190117
+      \endverb
+      \verb{urlraw}
+      \verb https://dblp.uni-trier.de/db/conf/ccia/ccia2019.html\#SarkerBRA0CRP19
+      \endverb
+      \verb{url}
+      \verb https://dblp.uni-trier.de/db/conf/ccia/ccia2019.html%5C#SarkerBRA0CRP19
+      \endverb
+    \endentry
+    \entry{shrestha-2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=264690e6aa3c5ecdb4036bd8a4677be6}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b422947c59230f1773849671692ef694}{%
+           family={Mahmood},
+           familyi={M\bibinitperiod},
+           given={Ausif},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{e4ccdc313a482b965a7d1a68caee14c1}
+      \strng{fullhash}{e4ccdc313a482b965a7d1a68caee14c1}
+      \strng{bibnamehash}{e4ccdc313a482b965a7d1a68caee14c1}
+      \strng{authorbibnamehash}{e4ccdc313a482b965a7d1a68caee14c1}
+      \strng{authornamehash}{e4ccdc313a482b965a7d1a68caee14c1}
+      \strng{authorfullhash}{e4ccdc313a482b965a7d1a68caee14c1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{IEEE Access}
+      \field{month}{1}
+      \field{title}{Review of Deep learning Algorithms and Architectures}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{53040\bibrangedash 53065}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1109/access.2019.2912200
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/access.2019.2912200
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/access.2019.2912200
+      \endverb
+    \endentry
+    \entry{simonyan2015deep}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=9d16b7284df92c9adaee86c37ab992df}{%
+           family={Simonyan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c72fc39e94030f67717052309266a44d}{%
+           family={Zisserman},
+           familyi={Z\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{fullhash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{bibnamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authorbibnamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authornamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authorfullhash}{25d2f3c4577a6632d37f0126cc781232}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CV}
+      \field{eprinttype}{arXiv}
+      \field{title}{Very Deep Convolutional Networks for Large-Scale Image Recognition}
+      \field{year}{2015}
+      \verb{eprint}
+      \verb 1409.1556
+      \endverb
+    \endentry
+    \entry{sural-2003}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fa2409c24d7631d552dcad5c2390a5ad}{%
+           family={Sural},
+           familyi={S\bibinitperiod},
+           given={Shamik},
+           giveni={S\bibinitperiod}}}%
+        {{hash=27fe02b9677bf0f351924b68594031d9}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=65f7af6a73f7d736f2812196dcd7848a}{%
+           family={Pramanik},
+           familyi={P\bibinitperiod},
+           given={Sakti},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f908a857e6c2dcc98824303c8264d405}
+      \strng{fullhash}{f908a857e6c2dcc98824303c8264d405}
+      \strng{bibnamehash}{f908a857e6c2dcc98824303c8264d405}
+      \strng{authorbibnamehash}{f908a857e6c2dcc98824303c8264d405}
+      \strng{authornamehash}{f908a857e6c2dcc98824303c8264d405}
+      \strng{authorfullhash}{f908a857e6c2dcc98824303c8264d405}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{journaltitle}{Proceedings. International Conference on Image Processing}
+      \field{month}{6}
+      \field{title}{Segmentation and histogram generation using the HSV color space for image retrieval}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/icip.2002.1040019
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/icip.2002.1040019
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/icip.2002.1040019
+      \endverb
+    \endentry
+    \entry{Szegedy_2015_CVPR}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=ed568d9c3bb059e6bf22899fbf170f86}{%
+           family={Szegedy},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c0e0d23e2d09e45e6f51cc2bcea6d9f9}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9fce03efe6b3331a1b93ed2e7c0da9d5}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Yangqing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=15f5333df96deaf51c72d065bded37d8}{%
+           family={Sermanet},
+           familyi={S\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=698ee61a2f3fa29734204496d2d36aef}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c1826f3465579186aff299a9b0e16ed7}{%
+           family={Anguelov},
+           familyi={A\bibinitperiod},
+           given={Dragomir},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8bbc4c5d96f205bada839e74e0202146}{%
+           family={Erhan},
+           familyi={E\bibinitperiod},
+           given={Dumitru},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8051922e7bd286f884bfbd1023ef62f5}{%
+           family={Vanhoucke},
+           familyi={V\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=aa04c4d6213a1e867b1650e298cb2668}{%
+           family={Rabinovich},
+           familyi={R\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{80f8e6bfc3aff3e75b2807a6f6962740}
+      \strng{fullhash}{64fbaf3c8a6b53523f74f0087b58e7e6}
+      \strng{bibnamehash}{80f8e6bfc3aff3e75b2807a6f6962740}
+      \strng{authorbibnamehash}{80f8e6bfc3aff3e75b2807a6f6962740}
+      \strng{authornamehash}{80f8e6bfc3aff3e75b2807a6f6962740}
+      \strng{authorfullhash}{64fbaf3c8a6b53523f74f0087b58e7e6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{Going Deeper With Convolutions}
+      \field{year}{2015}
+    \endentry
+    \entry{pmlr-v97-tan19a}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=1e7d6abb8225099acc71f672b9ec336e}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Mingxing},
+           giveni={M\bibinitperiod}}}%
+        {{hash=841a83a4bb5e622d6e1bde4818879016}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Quoc},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=050c0df95e5eb5c3218fdd148d0e17a4}{%
+           family={Chaudhuri},
+           familyi={C\bibinitperiod},
+           given={Kamalika},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bd2be300d445e9f6db7808f9533e66cb}{%
+           family={Salakhutdinov},
+           familyi={S\bibinitperiod},
+           given={Ruslan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{3c6ed03914c0610af0050fb8a809b599}
+      \strng{fullhash}{3c6ed03914c0610af0050fb8a809b599}
+      \strng{bibnamehash}{3c6ed03914c0610af0050fb8a809b599}
+      \strng{authorbibnamehash}{3c6ed03914c0610af0050fb8a809b599}
+      \strng{authornamehash}{3c6ed03914c0610af0050fb8a809b599}
+      \strng{authorfullhash}{3c6ed03914c0610af0050fb8a809b599}
+      \strng{editorbibnamehash}{ddb716c8c736fb868f09f38a0f4dd1ed}
+      \strng{editornamehash}{ddb716c8c736fb868f09f38a0f4dd1ed}
+      \strng{editorfullhash}{ddb716c8c736fb868f09f38a0f4dd1ed}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 36th International Conference on Machine Learning}
+      \field{series}{Proceedings of Machine Learning Research}
+      \field{title}{{E}fficient{N}et: Rethinking Model Scaling for Convolutional Neural Networks}
+      \field{volume}{97}
+      \field{year}{2019}
+      \field{pages}{6105\bibrangedash 6114}
+      \range{pages}{10}
+      \verb{file}
+      \verb http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v97/tan19a.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v97/tan19a.html
+      \endverb
+    \endentry
+    \entry{vijayakumari-2022}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b6a78e29d178cf1dea632bc3c3b33db4}{%
+           family={VijayaKumari},
+           familyi={V\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=54a9675accc9aa0fe43c73021367400c}{%
+           family={Vutkur},
+           familyi={V\bibinitperiod},
+           given={Priyanka},
+           giveni={P\bibinitperiod}}}%
+        {{hash=98439d2656372e67dca61dd60aea4e8b}{%
+           family={Vishwanath},
+           familyi={V\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d0f3debec294f09d076705a4cec5477}
+      \strng{fullhash}{6d0f3debec294f09d076705a4cec5477}
+      \strng{bibnamehash}{6d0f3debec294f09d076705a4cec5477}
+      \strng{authorbibnamehash}{6d0f3debec294f09d076705a4cec5477}
+      \strng{authornamehash}{6d0f3debec294f09d076705a4cec5477}
+      \strng{authorfullhash}{6d0f3debec294f09d076705a4cec5477}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Global transitions proceedings}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{Food classification using transfer learning technique}
+      \field{volume}{3}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{225\bibrangedash 229}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.gltp.2022.03.027
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.gltp.2022.03.027
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.gltp.2022.03.027
+      \endverb
+    \endentry
+    \entry{yalcn-2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2afe085850fee1b7586aca0fae44f49b}{%
+           family={Yalcin},
+           familyi={Y\bibinitperiod},
+           given={Orhan\bibnamedelimb G.},
+           giveni={O\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{2afe085850fee1b7586aca0fae44f49b}
+      \strng{fullhash}{2afe085850fee1b7586aca0fae44f49b}
+      \strng{bibnamehash}{2afe085850fee1b7586aca0fae44f49b}
+      \strng{authorbibnamehash}{2afe085850fee1b7586aca0fae44f49b}
+      \strng{authornamehash}{2afe085850fee1b7586aca0fae44f49b}
+      \strng{authorfullhash}{2afe085850fee1b7586aca0fae44f49b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{12}
+      \field{title}{4 Pre-Trained CNN Models to Use for Computer Vision with Transfer Learning | by Orhan Gazi Yalçın | Towards Data Science}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/4-pre-trained-cnn-models-to-use-for-computer-vision-with-transfer-learning-885cb1b2dfc
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/4-pre-trained-cnn-models-to-use-for-computer-vision-with-transfer-learning-885cb1b2dfc
+      \endverb
+    \endentry
+    \entry{you-2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ab8b0b9676b3dd2ac626a51336cd2c0f}{%
+           family={You},
+           familyi={Y\bibinitperiod},
+           given={Weike},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5c197210ea3c3cd10b35ad3c6922e157}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8b0d91544dfa8311626ea3ba8bab894d}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xianfeng},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{51c9f8c44cea7f3f7b3c70068792fe64}
+      \strng{fullhash}{51c9f8c44cea7f3f7b3c70068792fe64}
+      \strng{bibnamehash}{51c9f8c44cea7f3f7b3c70068792fe64}
+      \strng{authorbibnamehash}{51c9f8c44cea7f3f7b3c70068792fe64}
+      \strng{authornamehash}{51c9f8c44cea7f3f7b3c70068792fe64}
+      \strng{authorfullhash}{51c9f8c44cea7f3f7b3c70068792fe64}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{IEEE Transactions on Information Forensics and Security}
+      \field{month}{1}
+      \field{title}{A Siamese CNN for image steganalysis}
+      \field{volume}{16}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{291\bibrangedash 306}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/tifs.2020.3013204
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/tifs.2020.3013204
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/tifs.2020.3013204
+      \endverb
+    \endentry
+    \entry{zhou-2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2b37b3016aa8f759b5f3c3f37dedec23}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=377d09880ec55658f5a258c98e8c9503}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0138deaf332692ced30d823b9cebc488}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=231af663140bc07cdc73eb7d397b8dde}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Zhengjun},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=802db00c75cab6fd6f17d159239e4c1f}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{9b21d53134387b5a620f8eaf7ca39060}
+      \strng{fullhash}{9219d4c19f70fa91ed48090d68e1b8c2}
+      \strng{bibnamehash}{9b21d53134387b5a620f8eaf7ca39060}
+      \strng{authorbibnamehash}{9b21d53134387b5a620f8eaf7ca39060}
+      \strng{authornamehash}{9b21d53134387b5a620f8eaf7ca39060}
+      \strng{authorfullhash}{9219d4c19f70fa91ed48090d68e1b8c2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{journaltitle}{Comprehensive Reviews in Food Science and Food Safety}
+      \field{month}{9}
+      \field{number}{6}
+      \field{title}{Application of Deep Learning in Food: a review}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{1793\bibrangedash 1811}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/1541-4337.12492
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/1541-4337.12492
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/1541-4337.12492
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

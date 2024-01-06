@@ -1,0 +1,5 @@
+Note on Running the LaTeX Projec on local Tex Editor:
+
+*If problem arise when compiling the project, please remove the "[backend=biber]" in line 6 of the main.tex file and run "biber main" in command prompt.
+
+*The LaTeX project is compiled using the pdfLaTeX compiler.
